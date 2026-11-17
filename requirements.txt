@@ -1,0 +1,10 @@
+# Versions used (Colab / Kaggle images, November 2026). Training ran on CUDA GPUs.
+torch>=2.3
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+# optional: export and latency (notebook Cell 17)
+onnx
+onnxruntime

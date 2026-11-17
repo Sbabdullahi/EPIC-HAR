@@ -1,0 +1,13 @@
+{
+  "title": "EPIC-HAR: code and results for 'Holding Out the Person and the Phone: Budgeted Activity Recognition and a Factorial Study of What Each Component Contributes'",
+  "upload_type": "software",
+  "description": "Code, logged results (822 baseline-grid runs, 594 component-study runs). Includes the EPIC-HAR framework notebook, the LOSDO protocol, the 2^(5-1) factorial component study and a two-GPU Kaggle runner. Datasets (HHAR, LMDHG) are not redistributed.",
+  "creators": [
+    {"name": "<Abdullahi>, <Sunusi Bala>", "affiliation": "<Affiliation>", "orcid": "0000-0003-1898-7352"}
+  ],
+  "license": "MIT",
+  "keywords": ["human activity recognition", "domain shift", "LOSDO", "feature selection", "structured sparsity", "conformal prediction", "factorial design", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/Sbabdullahi/EPIC-HAR", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

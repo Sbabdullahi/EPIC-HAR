@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or the LOSDO protocol, please cite the paper below and the archived software."
+title: "EPIC-HAR: code and results for 'Holding Out the Person and the Device'"
+version: 1.0.0
+date-released: 2026-11-20          # set to the release date
+license: MIT
+repository-code: "https://github.com/Sbabdullahi/EPIC-HAR"
+doi: 10.5281/zenodo.XXXXXXX        # concept DOI, after the first Zenodo release
+authors:                           # same order as the paper; add ORCID iDs
+  - family-names: "<Abdullahi>"
+    given-names: "<Sunusi Bala>"
+    affiliation: "<University>"
+    orcid: "https://orcid.org/0000-0003-1898-7352"
+keywords:
+  - human activity recognition
+  - domain shift
+  - feature selection
+  - structured sparsity
+  - conformal prediction
+  - factorial design
+  - human-centred AI 	
+preferred-citation:
+  type: article
+  title: "Holding Out the Person and the Device: Budgeted Activity Recognition and a Factorial Study of What Each Component Contributes"
+  journal: "XX"
+  year: 2026
+  status: XX
+  authors:
+    - family-names: "<Family name>"
+      given-names: "<Given names>"

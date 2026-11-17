@@ -1,0 +1,19 @@
+# data and caches (never commit datasets)
+hhar/
+LMDHG/
+*.mat
+cache/
+*.npz
+# generated
+paper_assets/macros/
+paper_assets/tables/
+paper_assets/figures/
+kaggle/epic_code.py
+*.onnx
+*.ptl
+*.pt
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
