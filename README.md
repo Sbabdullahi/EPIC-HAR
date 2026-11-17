@@ -5,7 +5,7 @@ Code, logged results and analysis scripts for the paper
 > **Holding Out the Person and the Device: Budgeted Activity Recognition and a Factorial Study of What Each Component Contributes.**
 > *Authors*.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24325989.svg)](https://doi.org/10.5281/zenodo.24325989)
 <!-- replace XXXXXXX with the concept DOI after the first Zenodo release -->
 
 EPIC-HAR is an activity recogniser for phones and wearables. It places the choice of input feature groups and of
