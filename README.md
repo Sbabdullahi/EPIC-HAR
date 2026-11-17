@@ -1,6 +1,6 @@
 # Holding Out the Person and the Device
 
-Code, logged results and analysis scripts for the paper
+Code and analysis scripts for the research
 
 > **Holding Out the Person and the Device: Budgeted Activity Recognition and a Factorial Study of What Each Component Contributes.**
 > *S.B. Abdullahi*.
